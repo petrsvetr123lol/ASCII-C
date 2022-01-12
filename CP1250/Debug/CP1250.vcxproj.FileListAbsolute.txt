@@ -1,0 +1,2 @@
+H:\databaze\CP1250\Debug\CP1250.exe
+H:\databaze\CP1250\Debug\CP1250.pdb
